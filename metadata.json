@@ -1,0 +1,8 @@
+
+{
+  "name": "Pikachu: Local Voice Assistant Architect",
+  "description": "A comprehensive dashboard for a modular Python voice assistant featuring a circular wave visualizer, system controller simulation, and neural TTS architecture visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
